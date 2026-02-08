@@ -9,7 +9,3 @@ Simple Node.js example demonstrating:
 ## Install
 ```bash
 npm install
-
-## Run
-```bash
-npm run dev
